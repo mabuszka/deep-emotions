@@ -1,0 +1,8 @@
+name: deepemotions
+
+dependencies:
+- python=3.9
+- ipykernel
+- pip
+- pip:
+  - poetry
