@@ -1,4 +1,4 @@
-# Pipeline data_downlaod
+# Pipeline data_download
 
 > *Note:* This is a `README.md` boilerplate generated using `Kedro 0.18.8`.
 
