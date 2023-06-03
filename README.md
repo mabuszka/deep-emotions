@@ -1,5 +1,21 @@
 # deepemotions
 
+## Install
+  
+```bash 
+git clone https://github.com/mabuszka/deep-emotions.git
+# git clone git@github.com:mabuszka/deep-emotions.git
+cd deep-emotions
+conda env create --file conda.yml
+conda activate deep-emotions
+pip install -r requirements.txt
+# Adding new package
+pip install <package>
+# pip install pipreqs
+pipreqs .
+```
+
+
 ## Overview
 
 This is your new Kedro project, which was generated using `Kedro 0.18.5`.
